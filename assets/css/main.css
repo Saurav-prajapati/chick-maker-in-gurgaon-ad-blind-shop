@@ -2078,3 +2078,9 @@ section,
 .my-float {
   margin-top: 16px;
 }
+
+@media (max-width: 600px) {
+  .header .logo h1 {
+    font-size: 20px;
+  }
+}
